@@ -43,9 +43,7 @@ int main(void)
 ```
 ## OUTPUT
 
-![WhatsApp Image 2024-03-21 at 16 09 38_e300e2aa](https://github.com/sabithapaulraj/Linux-Process-API-fork-wait-exec/assets/118343379/31a5ec00-ffe2-4492-a28a-e790cf862efa)
-
-
+![image](https://github.com/SrinithiV/Linux-Process-API-fork-wait-exec/assets/118722030/448a5b1f-0887-4c12-b857-51081d8bac99)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```c
@@ -75,10 +73,7 @@ int main() {
 ```
 ## OUTPUT
 
-![WhatsApp Image 2024-03-21 at 16 13 12_804aada5](https://github.com/sabithapaulraj/Linux-Process-API-fork-wait-exec/assets/118343379/bc74f5c8-2b42-4596-9d90-ed309e894949)
-
-
-
+![image](https://github.com/SrinithiV/Linux-Process-API-fork-wait-exec/assets/118722030/3a081869-0ab9-41ce-9331-f213dda33d21)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```c
@@ -112,8 +107,7 @@ int main() {
 ```
 ## OUTPUT
 
-![WhatsApp Image 2024-03-21 at 16 15 00_d3714986](https://github.com/sabithapaulraj/Linux-Process-API-fork-wait-exec/assets/118343379/a1ae1684-39b7-438a-8f05-a3f31c461d48)
-
+![image](https://github.com/SrinithiV/Linux-Process-API-fork-wait-exec/assets/118722030/81e5ba5e-407a-4091-96db-b60c57e3e399)
 
 # RESULT:
 The programs are executed successfully.
